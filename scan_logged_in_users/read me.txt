@@ -1,6 +1,6 @@
 Put whole content from this repository on location C:\Scripts
-
-If you need another location, feel free to edit scrip.
+Also, create an empty folder "scan_logged_in_users" at the same location.
+If you need another location, feel free to edit the scrip.
 
 Tnx!
 Milos
