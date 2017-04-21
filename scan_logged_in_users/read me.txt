@@ -1,0 +1,7 @@
+Put whole content from this repository on location C:\Scripts
+
+If you need another location, feel free to edit scrip.
+
+Tnx!
+Milos
+sima.pos@gmail.com
